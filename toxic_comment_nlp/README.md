@@ -1,12 +1,3 @@
-
----
-
-# 🧠 1. TOXIC COMMENT NLP README (COPY THIS)
-
-Save inside:
-`toxic_comment_nlp/README.md`
-
-```markdown
 # Toxic Comment Classification (NLP Pipeline)
 
 ## 📌 Problem Framing
